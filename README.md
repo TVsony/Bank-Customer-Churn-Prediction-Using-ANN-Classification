@@ -1,1 +1,1 @@
-# Bank-Customer-Churn-Prediction-Using-ANN-Classification
+# Bank Customer Churn Prediction Using ANN Classification
